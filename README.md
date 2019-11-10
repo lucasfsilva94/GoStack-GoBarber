@@ -1,11 +1,11 @@
 <h1 align="center">
-    <img alt="GoBarber" src="https://res.cloudinary.com/lukemorales/image/upload/v1564533051/readme_logos/gobarber_hg5ddx.png" />
+    <img alt="GoBarber" src="https://user-images.githubusercontent.com/22107794/68539678-caf73400-0365-11ea-9dc4-4d340c7086e8.JPG" />
     <br>
     GoBarber
 </h1>
 
 <h4 align="center">
-  A barber scheduling app that allows users to schedule an appointment with his favorite barber and shows to the barber his agenda for the day.
+  App to provide a scheduling between barbers and clients.
 </h4>
 
 ## :rocket: Technologies
